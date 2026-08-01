@@ -84,7 +84,7 @@ dev = [
     "pytest-cov>=5.0,<6",
     "httpx>=0.28,<1",
     "ruff>=0.9,<1",
-    "mypy>=1.8,<2",
+    "mypy>=2.3.0,<3",
     "pact-python>=2.2,<3",
 ]
 cli = [
