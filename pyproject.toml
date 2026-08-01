@@ -72,7 +72,7 @@ dependencies = [
     "pymupdf>=1.24,<2",
     "python-docx>=1.1,<2",
     "openpyxl>=3.1,<4",
-    "beautifulsoup4>=4.12,<5",
+    "beautifulsoup4>=4.15.0,<5",
     "markdownify>=0.13,<1",
     "python-magic>=0.4,<1",
 ]
